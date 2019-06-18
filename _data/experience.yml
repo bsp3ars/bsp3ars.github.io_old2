@@ -1,0 +1,9 @@
+- layout: left
+  company: University of Cincinnati Libraries
+  link: https://libraries.uc.edu/
+  job_title: Software Developer
+  dates: August 2018 - Present
+  quote: >
+   "Even libraries need Software Developers"
+  description: | # this will include new lines to allow paragraphs
+    I work mainly on [Scholar@UC](scholar.uc.edu), which is a self-submission institutional repository developed with the Samvera Community.

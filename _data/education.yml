@@ -1,0 +1,13 @@
+- layout: left
+  name: Sinclair Community College
+  dates: 2015 - 2017
+  qualification: Associate's Degree, Software Development, 3.8
+  description: | # this will include new lines to allow paragraphs
+    I completed my Associates Degree while in High School using the College Credit Plus program (CCP). During this time I was inducted into the National Society of Leadership and Success, and made several connections with the faculty.
+
+- layout: left
+  name: The University of Cincinnati
+  dates: 2017 - 2022
+  qualification: Bachelor of Science, Computer Science, 3.1
+  description: | # this will include new lines to allow paragraphs
+    I am currently working on my Bachelor's degree from the University of Cincinnati, where I am currently involved in Cyber@UC, which is a cyber-security club that meets weekly.
